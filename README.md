@@ -1,1 +1,1 @@
-# Tea-2
+# tea.yaml
